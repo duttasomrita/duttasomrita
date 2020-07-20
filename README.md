@@ -15,8 +15,8 @@ I’m currently learning Front End Web Development with HTML,CSS,Bootstrap and J
 I’m looking to collaborate on some unique and interesting Android app ideas😊
 ***
 ### Connect with me:
-LinkedIn : https://www.linkedin.com/in/somrita-dutta-4b6b671b0
-Facebook : https://www.facebook.com/somrita.dutta.17
-Instagram : https://instagram.com/somrita_dutta?igshid=zwz2aszjzv1y
+LinkedIn : <a href="https://www.linkedin.com/in/somrita-dutta-4b6b671b0"></a>
+Facebook : <a href="https://www.facebook.com/somrita.dutta.17"></a>
+Instagram : <a href="https://instagram.com/somrita_dutta?igshid=zwz2aszjzv1y"></a>
 
 ***
