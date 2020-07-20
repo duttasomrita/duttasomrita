@@ -1,8 +1,13 @@
 ### Hey there!👋 I'm Somrita Dutta!
 
+***
+
+### About me:
+I am a B.Tech student in KIIT,Bhubaneshwar, pursuing Electronics and Computer Science Engineering.I am a beginner in the coding field and aspiring to learn a lot in the days to come. 
+
+***
+<img src="https://avatars3.githubusercontent.com/u/63914349?s=460&u=7f8b95f161825a89b62580aa7ffe598dd973447a&v=4" width="200" height = "200">
 <!--
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
